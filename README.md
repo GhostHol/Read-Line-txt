@@ -1,7 +1,7 @@
 # Read-Lines-In-a-txt-File
 # Below 1 Billion's Wordlists
 see lines in the txt file below 1 billion
-[image](https://github.com/GhostHol/Read-Line-txt/assets/153711389/33f6935d-5ea8-485d-8b63-67e71f826d94)
+![image](https://github.com/GhostHol/Read-Line-txt/assets/153711389/e7d6ad97-4066-4b47-bf0c-224c0803ff33)
 
 has a reading power of `1000 l/s` or 1000 liens/second
 
